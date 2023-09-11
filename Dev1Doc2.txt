@@ -1,2 +1,3 @@
 Changes done by developer 2
 Hello
+Dev 1 changes after conflict
